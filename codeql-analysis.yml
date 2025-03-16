@@ -1,0 +1,13 @@
+# this is the first file of the Git-hub training through microsoft.
+# for most projects, this workflow file will not need changing; You simply need to 
+# commit to your repository
+#
+# Your may wish to alkter this file to overide the set of languages analyzed,
+# or to provide custom queries or build logic.
+#
+# **********NOTE********
+#We have attempted to detect the languages in your repository, Please check
+# the 'Language' matrix defined below to confirm you have the correct set of
+# supported CodeQL laguages.
+#
+name: "CodeQL"
